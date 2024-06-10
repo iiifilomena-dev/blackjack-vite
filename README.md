@@ -10,3 +10,4 @@ Pasos para ejecutar proyecto:
 
 1. Ejecutar: npm run build
 2. Tomar la carpeta: dist (y desplegarla en un hosting)
+3. Desplegar en http://localhost:5173

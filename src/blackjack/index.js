@@ -9,6 +9,7 @@
 // import { crearDeck } from './usecases/crear-deck';
 // import { pedirCarta } from './usecases/pedir-carta';
 // import { valorCarta } from './usecases/valor-carta';
+
 // Forma 2 (Archivos de Barril)
 import { crearDeck, pedirCarta, valorCarta, turnoComputadora, crearCartaHTML } from './usecases/index';
 
